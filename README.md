@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Nicolás 👋
 
-<!--
-**nicorr-05/nicorr-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Forward Deployed Engineer. I take software from ambiguous requirements to production, working directly with the people who use it.
 
-Here are some ideas to get you started:
+- Founding Engineer & CTO at Docguía, a healthcare platform for medical specialists, scaled to 7,000+ daily active users
+- Shipped LLM agents in production: in-consultation AI for physicians and WhatsApp agents for sales and patient communication
+- Embedded with Replicant (conversational AI), raising automated call resolution from 18% to ~50%
+- Built the public platform of TradeStation, a FINRA-regulated US brokerage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript, React, Next.js, Node, tRPC, Django, Python, LangChain, LangGraph, AWS, PostgreSQL
+
+Most of my work lives in private client repositories. Happy to walk through architecture and decisions in a call.
+
+📫 [LinkedIn](https://linkedin.com/in/nicorr05) · nrestrepo.r05@gmail.com
